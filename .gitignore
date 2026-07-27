@@ -158,7 +158,6 @@ tags
 [._]*.un~
 
 ### VisualStudioCode ###
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -174,3 +173,5 @@ src/__pycache__/
 tests/__pycache__/
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
+config.bat
+node_modules
